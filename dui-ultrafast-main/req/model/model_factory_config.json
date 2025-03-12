@@ -1,0 +1,25 @@
+{
+    "input_shape": [
+        608,
+        1600,
+        2
+    ],
+    "channel_number": 16,
+    "level_number": 5,
+    "block_size": 2,
+    "kernel_size": 3,
+    "multiscale_factor": 2,
+    "channel_factor": 2,
+    "residual": true,
+    "residual_block": true,
+    "skip_connection": "add",
+    "padding": "same",
+    "data_format": "channels_last",
+    "activation": "relu",
+    "use_bias": true,
+    "block_kernel_initializer": "glorot_uniform",
+    "block_bias_initializer": "zeros",
+    "channel_kernel_initializer": "glorot_uniform",
+    "channel_bias_initializer": "zeros",
+    "dtype": "float32"
+}

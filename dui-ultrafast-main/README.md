@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# dui-ultrafast-main
-=======
 # CNN-Based Image Reconstruction Method for Ultrafast Ultrasound Imaging: Code
 
 ## Summary
@@ -339,4 +336,3 @@ please cite the corresponding [paper][tuffc-doi].
 
 This work was supported in part by the Swiss National Science
 Foundation under Grant 205320_175974 and Grant 206021_170758.
->>>>>>> 79d9462 (Initial commit)
